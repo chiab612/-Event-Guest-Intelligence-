@@ -1,0 +1,6 @@
+{
+  "name": "Event Guest Intelligence",
+  "description": "活動來賓品牌風險與價值分析器：協助品牌與主辦方理解來賓背景、評估活動契合度與品牌合作潛力，落實專業友善的來賓管理與現場價值洞察。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
